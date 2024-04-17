@@ -1,5 +1,7 @@
+__author__ = "Julien Carron"
+__version__ = "1.0.2"
+
 from setuptools import setup
-from planckpr4lensing import __author__, __version__
 import os
 
 file_dir = os.path.abspath(os.path.dirname(__file__))
